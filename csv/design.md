@@ -1,3 +1,5 @@
+## Proposta de Design
+
 O software que atende essa demanda deve modularizado da seguinte forma:
 
 - Uma **classe** responsável pela leitura do arquivo CSV e pela conversão de seu conteúdo em um objeto manipulável
