@@ -3,7 +3,7 @@ public class MetodoDeNewton {
         // Variável auxiliar
         double x = inteiro;
 
-        // Raíz a ser calculada
+        // Raiz a ser calculada
         double raiz;
 
         while (true) {
