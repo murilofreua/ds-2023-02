@@ -1,5 +1,6 @@
 public class Divide extends Decorator {
     Expressao segundoFator;
+    
     @Override
     public float valor() { return super.valor() / segundoFator.valor(); }
 
