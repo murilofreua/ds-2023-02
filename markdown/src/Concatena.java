@@ -1,5 +1,6 @@
 public class Concatena extends Decorator {
     Markdown segundoTexto;
+    
     @Override
     public String exibe() { return super.exibe() + segundoTexto.exibe(); }
 
